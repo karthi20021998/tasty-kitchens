@@ -1,0 +1,147 @@
+.empty-cart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.empty-cart-image {
+  width: 425px;
+  height: 367px;
+}
+
+.empty-cart-heading {
+  font-family: DM Sans;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 48px;
+  color: #1e293b;
+}
+
+.empty-cart-text {
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #64748b;
+}
+
+.order-now-btn {
+  width: 93px;
+  height: 32px;
+  border: 0px;
+  background-color: #f7931e;
+  color: #ffffff;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.table-card {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-right: 30px;
+}
+
+.items {
+  font-family: DM Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  margin-left: 20px;
+  color: #475569;
+}
+
+.quantity {
+  font-family: DM Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  margin-left: 180px;
+  color: #475569;
+}
+
+.price {
+  font-family: DM Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  margin-right: 30px;
+  color: #475569;
+}
+
+.cart-list-container {
+  background-color: #ffffff;
+  border: 1px solid lightgray;
+  box-shadow: 10px 5px 5px lightblue;
+  border-radius: 5px;
+  height: fit-content;
+  margin-bottom: 20px;
+  margin: 10px;
+  width: 80%;
+  align-self: center;
+}
+
+.remove-all {
+  width: 90px;
+  height: 20px;
+  border: 0px;
+  border-radius: 5px;
+  color: rebeccapurple;
+  background-color: transparent;
+  font-weight: 600;
+  font-family: 'DM Sans';
+  align-self: flex-end;
+  margin-right: 130px;
+  cursor: pointer;
+}
+
+.hr-line {
+  width: 80%;
+  border: 1px dashed #cbd2d9;
+}
+
+.order-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  width: 80%;
+  margin-left: 120px;
+}
+
+.order-title {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  color: #3e4c59;
+}
+
+.order-price {
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  color: #3e4c59;
+}
+
+.order-btn {
+  width: 99px;
+  height: 32px;
+  background-color: #f7931e;
+  border-radius: 8px;
+  border: 0px;
+  color: #ffffff;
+}

@@ -1,0 +1,94 @@
+.specific-res-bg-container {
+  background-image: url('https://res.cloudinary.com/dghnaymwn/image/upload/v1711016078/Frame_279_axiit0.png');
+  background-size: cover;
+  height: 50vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.specific-res-image {
+  width: 445px;
+  height: 280px;
+  border-radius: 8px;
+  margin-left: 90px;
+}
+
+.details-card {
+  margin-left: 25px;
+}
+
+.specific-res-name {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 48px;
+  letter-spacing: 0.20000000298023224px;
+  color: #ffffff;
+}
+
+.specific-res-cuisine {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.specific-res-location {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.rating-costs-card {
+  display: flex;
+  align-items: center;
+}
+
+.specific-res-rating {
+  font-family: DM Sans;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  color: #ffffff;
+}
+
+.specific-res-review {
+  font-family: DM Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #e2e8f0;
+}
+
+.specific-res-cost {
+  font-family: DM Sans;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  color: #ffffff;
+}
+
+.specific-res-cost-text {
+  font-family: DM Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #e2e8f0;
+}
+.vertical-line {
+  color: #e2e8f0;
+  margin: 20px;
+  border-left: 2px;
+  height: 60px;
+}
+
+.foodlist-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 60px;
+}

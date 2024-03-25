@@ -1,0 +1,73 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+  position: sticky;
+}
+
+.navbar-heading-card {
+  display: flex;
+  align-items: center;
+}
+
+.large-device-container {
+  display: flex;
+  align-items: center;
+}
+.navbar-logo {
+  width: 53px;
+  height: 53px;
+  padding: 4px;
+}
+
+.navbar-heading {
+  font-family: DM Sans;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0px;
+  color: #f7931e;
+}
+
+.nav-home {
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 26px;
+  color: #f7931e;
+  margin: 20px;
+}
+
+.nav-cart {
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 26px;
+  color: #334155;
+  margin: 20px;
+}
+
+.nav-logout-btn {
+  width: 73px;
+  height: 32px;
+  border: 0px;
+  border-radius: 8px;
+  background-color: #f7931e;
+  color: #ffffff;
+  margin: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.cartitems-text {
+  font-size: 18px;
+  font-family: 'DM Sans';
+  color: #c90909;
+  padding-left: 8px;
+}

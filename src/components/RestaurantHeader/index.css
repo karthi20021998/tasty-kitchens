@@ -1,0 +1,66 @@
+.res-header-container {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.res-header-name {
+  font-family: DM Sans;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  color: #183b56;
+}
+
+.res-header-text {
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #64748b;
+}
+
+.text-card {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sort-by-card {
+  display: flex;
+  align-items: center;
+}
+
+.sort-by-icon {
+  font-size: 25px;
+  color: #475569;
+  margin-right: 5px;
+}
+
+.sort-by-text {
+  color: #475569;
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  margin-right: 5px;
+}
+
+.sort-by-select {
+  color: #475569;
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  width: 80px;
+  border: 0px;
+  outline: none;
+}
+
+.select-option {
+  color: #475569;
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+}

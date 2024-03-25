@@ -1,0 +1,30 @@
+.offers-restaurant-list-container {
+  height: 100vh;
+  overflow: auto;
+}
+
+.res-list-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel-container {
+  height: 320px;
+  width: 80%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 110px;
+}
+
+.carousel-image {
+  height: 320px;
+}
